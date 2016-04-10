@@ -11,4 +11,7 @@ TO run this, do the following in the project root folder:
 gem install json
 ruby try.rb
 
+For example, 
+[ylee@ylee-asus rest_with_ruby]$ ruby try.rb
+
 
